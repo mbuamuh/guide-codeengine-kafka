@@ -1,0 +1,9 @@
+.DS_Store
+*.iml
+target/
+.idea/
+.settings
+.project
+.classpath
+.git/
+.asciidoctorconfig.adoc
