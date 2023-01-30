@@ -1,1 +1,34 @@
-# guide-codeengine-kafka
+//  Copyright (c) 2020, 2022 IBM Corporation and others.
+// Licensed under Creative Commons Attribution-NoDerivatives
+// 4.0 International (CC BY-ND 4.0)
+//   https://creativecommons.org/licenses/by-nd/4.0/
+//
+// Contributors:
+//     IBM Corporation
+//
+:projectid: codeengine-kafka
+:page-layout: guide-multipane
+:page-duration: 45 minutes
+:page-releasedate: 2023-01-24
+:page-guide-category: microprofile
+:page-essential: false
+:page-description: Learn how to use MicroProfile Reactive Messaging to implement an application with a reactive architecture.
+:guide-author: Open Liberty
+:page-tags: ['MicroProfile', 'Jakarta EE']
+:page-related-guides: ['reactive-service-testing']
+:page-permalink: /guides/{projectid}
+:imagesdir: /img/guide/{projectid}
+:page-seo-title: Creating asynchronous Java microservices using MicroProfile Reactive Messaging 
+:page-seo-description: A getting started reactive programming tutorial with examples on how to send and receive messages between asynchronous Java microservices using Eclipse MicroProfile Reactive Messaging and Apache Kafka.
+:common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/prod
+:source-highlighter: prettify
+= Creating serverless functions in IBM Cloud Code Engine using MicroProfile Reactive Messaging Java microservices
+
+[.hidden]
+NOTE: This repository contains the guide documentation source. To view the guide in published form,
+view it on the https://openliberty.io/guides/{projectid}.html[Open Liberty website].
+
+Learn how to use MicroProfile Reactive Messaging Java microservices to create serverless functions in IBM Cloud Code Engine.
+
+== What you'll learn
+

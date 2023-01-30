@@ -7,3 +7,10 @@ target/
 .classpath
 .git/
 .asciidoctorconfig.adoc
+*.class
+finish/inventory/bin/pom.xml
+*.html
+finish/inventory/bin/src/main/liberty/config/server.xml
+finish/inventory/bin/src/main/webapp/WEB-INF/web.xml
+*.properties
+finish/inventory/bin/Dockerfile
